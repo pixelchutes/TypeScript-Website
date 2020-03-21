@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{"6cMU":function(n,e,o){"use strict";o.r(e);var c=o("ERkP"),t=o.n(c);e.default=function(){return t.a.createElement("script",null,"window.location.href = '/docs/home'")}}}]);
+//# sourceMappingURL=component---src-templates-pages-docs-index-tsx-9d66e3601dbe4b98a2c0.js.map

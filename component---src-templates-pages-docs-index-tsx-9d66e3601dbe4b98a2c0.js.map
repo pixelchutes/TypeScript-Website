@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/templates/pages/docs/index.tsx"],"names":[],"mappings":"8FAAA,gCAEe,4BACb","file":"component---src-templates-pages-docs-index-tsx-9d66e3601dbe4b98a2c0.js","sourcesContent":["import React from \"react\"\n\nexport default () =>\n  <script>window.location.href = '/docs/home'</script>\n\n"],"sourceRoot":""}
